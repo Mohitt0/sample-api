@@ -2,7 +2,7 @@ import express from 'express';
 import cors from 'cors';
 const app = express();
 const port = 5000;
-const baseUrl = 'http://localhost:5000'; 
+const baseUrl = 'https://sample-api-4qoh.onrender.com'; 
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 import path from 'path';
