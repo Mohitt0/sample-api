@@ -168,7 +168,7 @@ export const bioData = {
       school: "Geetanjali Institute of Technical Studies",
       date: "Oct 2020 - Sep 2024",
       grade: "8.5 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Geetanjali Institute of Technical Studies, Udaipur. I have completed 6 semesters and have a CGPA of 8.5. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Geetanjali Institute of Technical Studies, Udaipur. I have completed 7 semesters and have a CGPA of 8.5. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     },
     {
