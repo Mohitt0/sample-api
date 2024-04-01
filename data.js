@@ -218,16 +218,16 @@ export const bioData = {
     },
     {
       id: 3,
-      title: "TextUtils",
-      date: "Jul 2021",
+      title: "SocialMania",
+      date: "Feb 2024",
       description:
-        "A TextUtils transform text in  different form",
+        "SocialMania is a web application that allows you to share your posts with others.",
       image:
-        "",
-      tags: ["React Js"],
+        "/socialMania.png",
+      tags: ["React Js","TailwindCSS","Node js"],
       category: "web app",
-      github: "https://github.com/Mohitt0/TextUtils",
-      webapp: "",
+      github: "https://github.com/Mohitt0/socialMania",
+      webapp: "https://socialmania-6cib.onrender.com/",
     },
   ];
   // export const TimeLineData = [
